@@ -2,7 +2,7 @@ In this challenge, I was given the responsibility of writing a Python script to 
 
 * This is the total number of months in the dataset.
 
-* Over the entire period, the net total amount of "Profit/Losses"
+* Over the entire period, the net total amount of 
 
 * Over the course of the period, calculate the changes in "Profit/Losses," then find the average of those changes.
 
